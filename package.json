@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "nodemon server.js",
+    "dev": "nodemon index.js",
     "predev": "npm run prestart",
-    "start": "node server.js",
+    "start": "node index.js",
     "prestart": "npm-run-all migrate:undo migrate seed",
     "lint": "eslint **/*.js",
     "lintfix": "eslint **/*.js --fix",
