@@ -20,7 +20,7 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
-    "sequelize": "^5.15.2",
+    "sequelize": "^6.29.0",
     "sequelize-cli": "^5.5.0",
     "csv-parse": "^4.4.5",
     "dotenv": "^8.1.0",
